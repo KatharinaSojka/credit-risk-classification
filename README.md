@@ -35,8 +35,7 @@ The process involved:
 ## Results
 
 
-* Logistic Regression:
-    * we have achieved following scores:
+* Logistic Regression, following scores have been achieved:
         1. Accuracy : 99%
         2. Precision: 
             * healthy loans: 1.00 
